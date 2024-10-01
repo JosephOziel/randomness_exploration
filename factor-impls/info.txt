@@ -1,0 +1,4 @@
+-blum-blum-shub
+-lagged fibonacci
+-pcg-xoshiro
+are taken from the factor extra

@@ -1,0 +1,27 @@
+https://github.com/PwnFunction/v8-randomness-predictor
+
+https://www.ams.org/journals/mcom/1999-68-225/S0025-5718-99-00996-5/
+S0025-5718-99-00996-5.pdf 
+
+https://dspace.library.uvic.ca/server/api/core/bitstreams/
+b7ffb4ac-e2dd-40fb-bb69-74ae37a79fd8/content
+
+https://en.wikipedia.org/wiki/Linear_congruential_generator https://github.com/rossilor95/lcg-python/blob/main/lcg.py  
+
+https://en.wikipedia.org/wiki/List_of_random_number_generators 
+
+https://github.com/mkazmier/linear-register/blob/master/lfsr.py 
+
+https://crypto.stackexchange.com/questions/2086/predicting-values-from-a-linear-congruential-generator 
+
+https://security.stackexchange.com/questions/4268/cracking-a-linear-congruential-generator 
+
+https://www-users.cse.umn.edu/~garrett/students/reu/MB_algorithm.pdf
+
+https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm
+
+http://www.math.utoledo.edu/~codenth/Cryptanalysis/python/enigma/lfsr.py
+
+https://www.pcg-random.org/
+
+https://hal.science/hal-02700791/document

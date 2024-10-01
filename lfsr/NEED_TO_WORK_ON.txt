@@ -1,0 +1,3 @@
+the prediction algorithm (berlekamp massey) does not predict correctly
+
+also, im not sure if the lfsr's are implemented correctly
